@@ -1,0 +1,1 @@
+The name of the executable is "runProgram.x", you can compile using "make" and clean using "make clean". After running, the name of the output file(s) will be listed for you to check (they are always in the "output" directory). I hope you enjoy !
